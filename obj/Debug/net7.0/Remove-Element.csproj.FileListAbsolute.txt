@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Remove-Element\bin\Debug\net7.0\Remove-Element.exe
+C:\Users\trigo\Programação\C#\Remove-Element\bin\Debug\net7.0\Remove-Element.deps.json
+C:\Users\trigo\Programação\C#\Remove-Element\bin\Debug\net7.0\Remove-Element.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Remove-Element\bin\Debug\net7.0\Remove-Element.dll
+C:\Users\trigo\Programação\C#\Remove-Element\bin\Debug\net7.0\Remove-Element.pdb
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.dll
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\refint\Remove-Element.dll
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.pdb
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\Remove-Element.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Remove-Element\obj\Debug\net7.0\ref\Remove-Element.dll
